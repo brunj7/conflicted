@@ -1,0 +1,2 @@
+# conflicted
+testing git conflict
